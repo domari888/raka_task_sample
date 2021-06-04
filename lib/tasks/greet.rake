@@ -1,0 +1,2 @@
+namespace :greet do
+end
